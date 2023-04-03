@@ -13,6 +13,7 @@ public class Cat extends Animal{
         return color;
     }
 
+
     public void setColor(String color) {
         this.color = color;
     }

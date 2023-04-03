@@ -12,6 +12,7 @@ public class Animal {
         public Animal() {
         }
 
+
         public Boolean getVegetarian() {
             return vegetarian;
         }

@@ -22,5 +22,4 @@ public class Lesson6 {
         System.out.println("NoOfLegs= "+rag_doll.getNoOfLegs());
         System.out.println("Color= "+rag_doll.getColor());
     }
-
     }
